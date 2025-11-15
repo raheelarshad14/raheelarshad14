@@ -5,11 +5,11 @@
 ---
 
 ## About me
-I'm a Software Engineering student with strong passion for Technology. I learn by building — focusing on practical projects that combine programming fundamentals, teamwork, and real-world problem solving.
+I'm a Software Engineering student with strong passion for Technology. I learn by building, focusing on practical projects that combine programming fundamentals, teamwork, and real-world problem solving.
 
 ## Currently
 **Working on: AURA**  
-AURA is a team collaboration project with 12 students. We're learning, implementing, and exploring ways to monetize practical ideas through joint project ventures.
+AURA is a team collaboration project with 10 students. We're learning, implementing, and exploring ways to monetize practical ideas through joint project ventures.
 
 ## Skills
 - Programming: C++, Python, Java (currently strengthening core OOP concepts)
