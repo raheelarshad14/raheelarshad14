@@ -5,7 +5,7 @@
 ---
 
 ## About me
-I'm a Software Engineering student with strong passion for Technology. I learn by building, focusing on practical projects that combine programming fundamentals, teamwork, and real-world problem solving.
+SWE student with an interest for a career in Banking IT, cybersecurity, and backend development. Currently building strong foundations in Java, Spring Boot, SQL, networking, and system security. Passionate about secure system design, financial technology infrastructure, and enterprise level backend architecture. Actively preparing for a career in banking technology and information security.
 
 ## Currently
 **Learning and implementing new technologies**  
@@ -29,11 +29,7 @@ Building a solid grip on SQL, Databases, Python HTML, CSS and JavaScript mainly 
 
 
 ## How to find my work
-- LinkedIn: same as top of this README
-
-## Want to collaborate?
-I'm open to part-time work, internships, and project collaborations — especially roles where I can learn while contributing.  
-Feel free to reach out on LinkedIn or open an issue / PR on any repo.
+- LinkedIn
 
 ---
 
