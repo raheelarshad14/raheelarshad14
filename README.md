@@ -8,26 +8,25 @@
 I'm a Software Engineering student with strong passion for Technology. I learn by building, focusing on practical projects that combine programming fundamentals, teamwork, and real-world problem solving.
 
 ## Currently
-**Working on: AURA**  
-AURA is a team collaboration project with 10 students. We're learning, implementing, and exploring ways to monetize practical ideas through joint project ventures.
+**Learning and implementing new technologies**  
+Building a solid grip on SQL, Databases, Python HTML, CSS and JavaScript mainly through projects.
 
 ## Skills
-- Programming: C++, Python, Java (currently strengthening core OOP concepts)
+- Programming: C++, Python, Java, SQL, C, JavaScript, HTML and CSS
 
-- Tools: VS Code, IntelliJ Idea, GitHub
-- Interests: Software engineering, Cybersecurity, IT Automatioon, Data Structures & Algorithms, GUI projects
-
+- Tools: VS Code, IntelliJ Idea, Pycharm, CLion, Git and GitHub
 
 ## Projects
-- **AURA (Team Project)** — Team collaboration project (12 members). Focus: prototype, test, and prepare to monetize selected ideas.  
-  - Responsibilities: feature coding, documentation, testing, demos.
-- **Practice Projects** — small GUI apps, algorithm practice.
+- **Smart PC Configurator**
+ • Step by step PC building with strict compatibility checks
+ • Automatic filtering between CPU, motherboard, RAM and casing so wrong combinations are impossible
+ • Budget based builds to help non technical users get started
+ • Real time price calculation for the complete build
+ • A proper inventory management module for shopkeepers with stock updates after every sale
+ • One system that works for both customers and sellers
+ • Generate the final bill and save it in .txt file.
+  
 
-## What I'm learning now
-- Strengthening core OOP concepts in Java
-- Strengthening DSA and C++
-- CS50x and practical coding projects
-- Intro to cybersecurity and IT automation
 
 ## How to find my work
 - LinkedIn: same as top of this README
