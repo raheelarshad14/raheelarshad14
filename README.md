@@ -8,7 +8,7 @@
 SWE student with an interest for a career in Banking IT, cybersecurity, and backend development. Currently building strong foundations in Java, Spring Boot, SQL, networking, and system security. Passionate about secure system design, financial technology infrastructure, and enterprise level backend architecture. Actively preparing for a career in banking technology and information security.
 
 ## Currently
-**Learning and implementing new technologies**  
+**Learning and implementing new technologies:**  
 Building a solid grip on SQL, Databases, Python HTML, CSS and JavaScript mainly through projects.
 
 ## Skills
